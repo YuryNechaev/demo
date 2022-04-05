@@ -1,5 +1,3 @@
 Hello!
 Bye!
 Ho-ho-ho!
-
-12
